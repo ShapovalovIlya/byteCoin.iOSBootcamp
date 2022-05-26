@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		86BFCC072823C822004173C4 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86BFCC062823C822004173C4 /* CoinData.swift */; };
+		86C014EA2840196D00FA06F3 /* APIKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C014E92840196D00FA06F3 /* APIKey.swift */; };
 		ADA8AC092329367100626376 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC082329367100626376 /* AppDelegate.swift */; };
 		ADA8AC0B2329367100626376 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC0A2329367100626376 /* SceneDelegate.swift */; };
 		ADA8AC0D2329367100626376 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC0C2329367100626376 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		86BFCC062823C822004173C4 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
+		86C014E92840196D00FA06F3 /* APIKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKey.swift; sourceTree = "<group>"; };
 		ADA8AC052329367100626376 /* ByteCoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ByteCoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADA8AC082329367100626376 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADA8AC0A2329367100626376 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 			children = (
 				ADA8AC082329367100626376 /* AppDelegate.swift */,
 				ADA8AC0A2329367100626376 /* SceneDelegate.swift */,
+				86C014E92840196D00FA06F3 /* APIKey.swift */,
 				ADA8AC1E2329370F00626376 /* Model */,
 				ADA8AC1C232936FE00626376 /* View */,
 				ADA8AC1D2329370700626376 /* Controller */,
@@ -173,6 +176,7 @@
 				86BFCC072823C822004173C4 /* CoinData.swift in Sources */,
 				ADA8AC092329367100626376 /* AppDelegate.swift in Sources */,
 				ADA8AC0B2329367100626376 /* SceneDelegate.swift in Sources */,
+				86C014EA2840196D00FA06F3 /* APIKey.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
